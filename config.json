@@ -1,65 +1,11 @@
 {
-  "couple": {
-    "name1": "Aarav",
-    "name2": "Diya",
-    "anniversary_date": "2023-02-14",
-    "relationship_start": "2022-02-14T19:00:00"
-  },
-  "messages": {
-    "welcome": "Happy Anniversary, My Love",
-    "finale": "Every Love Story Is Beautiful, But Ours Is My Favorite.",
-    "love_letter": "My dearest love,\n\nEvery moment with you feels like a beautiful dream I never want to wake from. Thank you for your laughter, your kindness, your endless love.\n\nForever yours.",
-    "surprise": "I booked our dream dinner under the stars this weekend! Pack your smile, I'll handle the rest."
-  },
-  "music_url": "https://cdn.pixabay.com/audio/2022/10/25/audio_9463f8a7d7.mp3",
-  "reasons": [
-    "You make me laugh every single day",
-    "Your smile is my favorite view",
-    "You believe in us even on hard days",
-    "Your hugs feel like home",
-    "You dance with me in the kitchen",
-    "You remember the little things",
-    "You inspire me to be better",
-    "Your eyes hold my whole world",
-    "You turn ordinary days into magic",
-    "You love me at my worst"
-  ],
-  "timeline": [
-    {
-      "title": "The Day We First Met",
-      "date": "2022-02-14",
-      "description": "A chance encounter that changed everything.",
-      "image": ""
-    },
-    {
-      "title": "Our First Conversation",
-      "date": "2022-02-15",
-      "description": "We talked for hours and never wanted to stop.",
-      "image": ""
-    },
-    {
-      "title": "Our First Date",
-      "date": "2022-03-01",
-      "description": "Coffee, laughter, and butterflies.",
-      "image": ""
-    },
-    {
-      "title": "Favorite Memory",
-      "date": "2023-06-20",
-      "description": "That long drive with your favorite songs playing.",
-      "image": ""
-    },
-    {
-      "title": "Anniversary Celebration",
-      "date": "2024-02-14",
-      "description": "One year of us, and forever to go.",
-      "image": ""
-    }
-  ],
-  "dreams": [
-    "Travel to Paris together",
-    "Build our dream home",
-    "Watch sunsets in Santorini",
-    "Grow old laughing together"
-  ]
+  "name1": "Aarav",
+  "name2": "Diya",
+  "relationship_start": "2022-02-14",
+  "anniversary": "2023-02-14",
+  "welcome": "Happy Anniversary, My Forever",
+  "finale": "Every Love Story Is Beautiful, But Ours Is My Favorite.",
+  "intro": "Every chapter with you is my favorite. This is our infinite love story.",
+  "surprise": "A dream dinner under the stars this weekend! Pack your smile.",
+  "theme": "rose"
 }
