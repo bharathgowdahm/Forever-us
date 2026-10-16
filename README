@@ -1,0 +1,16 @@
+ForeverVerse — Our Infinite Love Story (Streamlit)
+Ultra-premium anniversary app: cinematic hero, live counter, timeline, gallery, love-letter studio + template generator, 100 reasons, quiz, countdown, surprise box, dreams planner, memory capsule, music upload, greeting-card PNG generator, grand finale.
+
+Run
+pip install -r requirements.txt
+streamlit run app.py
+Deploy (Streamlit Community Cloud)
+git init && git add . && git commit -m "ForeverVerse"
+Push to GitHub (never commit private photos/secrets).
+share.streamlit.io → New app → repo → app.py → Deploy.
+Notes
+Session state is temporary; SQLite/uploads may not persist across Cloud restarts.
+Feb 29 anniversaries: celebrated Feb 28 in non-leap years.
+Quiz result is entertainment only.
+Tests
+pytest -q
